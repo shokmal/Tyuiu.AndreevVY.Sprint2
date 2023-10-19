@@ -9,6 +9,7 @@ using tyuiu.cources.programming.interfaces.Sprint2;
 namespace Tyuiu.AndreevVY.Sprint2.Task5.V6.Lib
 {
     public class DataService : ISprint2Task5V3
+
     {
         public string FindDayName(int value)
         {
